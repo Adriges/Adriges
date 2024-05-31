@@ -2,8 +2,18 @@ Repositorio de Adrián Godoy Escobar
 
 Aplicaciones:
 
-Curso Angular de Udemy
+Curso: 
+Angular desde cero a experto: Crear una aplicación real
+En Udemy
+
 https://github.com/Adriges/spotify
+
+Curso: 
+Angular: Pruebas unitarias con Jasmine y Karma
+En Udemy
+
+https://github.com/Adriges/book-list-app
+
 
 <!--
 **Adriges/Adriges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
