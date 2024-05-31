@@ -1,4 +1,9 @@
-### Hi there 👋
+Repositorio de Adrián Godoy Escobar
+
+Aplicaciones:
+
+Curso Angular de Udemy
+https://github.com/Adriges/spotify
 
 <!--
 **Adriges/Adriges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
